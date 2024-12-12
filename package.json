@@ -1,6 +1,6 @@
 {
   "name": "tool-avrdude",
-  "version": "8.0-20241125 (69c3293f)",
+  "version": "8.0.20241125",
   "description": "AVRDUDE is a utility to download/upload/manipulate the ROM and EEPROM contents of AVR microcontrollers",
   "keywords": [
     "tools",
